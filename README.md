@@ -49,4 +49,4 @@ The table below summarizes the performance of several regression models evaluate
    - Ensured proper use of `user_score` as the target label in the training phase.
 
 ## Conclusion
-The movie recommendation system predicts user ratings using regression models. After evaluating multiple models, the **Gradient Boosting Regressor** proved to be the most accurate, providing the best user score predictions. This model is used to generate movie recommendations based on the user's genre preferences. The system helps users discover movies they are likely to enjoy, enhancing their movie selection experience.
+The movie recommendation system predicts user ratings using regression models. After evaluating multiple models, the **Gradient Boosting Regressor** proved to be the most accurate, providing the best user score predictions. This model is used to generate movie recommendations based on the user's genre preferences. The system helps users discover movies that they are likely to enjoy, enhancing their movie selection experience.
